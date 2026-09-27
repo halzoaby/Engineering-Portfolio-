@@ -18,6 +18,14 @@ My work combines engineering judgment with computational tools to solve complex 
 ### PhD Dissertation — The University of Texas at Austin
 [View official dissertation record](https://repositories.lib.utexas.edu/items/f6d64573-1f5b-410b-aa47-1b31b27d9cb4)
 
+### Journal Publication
+**Implementation of the Discrete Area Method and Its Impact on the Steel Reinforcement of Large Mat Foundations**  
+Hassan Alzoaby, Gaby Saad, and Grace Abou-Jaoude  
+*Innovative Infrastructure Solutions*, 2025, 10:131  
+DOI: 10.1007/s41062-025-01926-x
+
+[View journal article on Springer](https://link.springer.com/article/10.1007/s41062-025-01926-x)
+
 ### Conference Publication
 **The Effect of the Variation of the Modulus of Subgrade Reaction on the Design of Large Shallow Foundations**  
 Grace Abou-Jaoude and Hassan Alzoaby  
@@ -25,9 +33,14 @@ Grace Abou-Jaoude and Hassan Alzoaby
 
 [View publication through ISSMGE](https://www.issmge.org/publications/publication/the-effect-of-the-variation-of-the-modulus-of-subgrade-reaction-on-the-design-of-large-shallow-foundations)
 
-### Conference Recognition
-Tunneling-related conference award / recognition.
+### Awards & Recognition
 
+**2023 Roy Olson Award — The University of Texas at Austin**  
+Awarded for outstanding performance and community contribution in geotechnical engineering.
+
+[View UT Austin award page](https://sites.utexas.edu/geotech/olson-award/)
+
+**Tunneling Conference Award / Recognition**  
 [View external record](https://openurl.ebsco.com/EPDB%3Agcd%3A3%3A16032515/detailv2?sid=ebsco%3Aplink%3Acrawler-gcd&id=ebsco%3Agcd%3A162457199&crl=c&jrnl=00265187&link_origin=scholar.google.com)
 
 [View full Research, Publications & Awards section](research/README.md)
